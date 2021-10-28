@@ -61,3 +61,5 @@ Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
 > git push -u origin main
 ```
 - Selesai terupload dan dipush Ke Github
+
+![Gambar 8](screenshots/8.png)
